@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://cdn.pixabay.com/photo/2020/05/07/04/01/digitization-5140071_1280.jpg",
+      "title": "The Art of Creativity",
+      "author_img": "https://media.istockphoto.com/id/1320207978/photo/head-shot-smiling-businessman-wearing-glasses-standing-in-office.jpg?s=2048x2048&w=is&k=20&c=YNvK_adiejaf3zjfX4Eh9K5UXrzSB18F_F2bMY9--u4=",
+      "posted_date": "2024-04-20",
+      "reading_time": 10,
+      "author": "Eleanor Robertson",
+      "hashtags": ["#Creativity", "#Innovation", "#Art"]
+    },
+    {
+      "id": 2,
+      "cover": "https://cdn.pixabay.com/photo/2016/09/26/09/10/binary-1695478_1280.jpg",
+      "title": "Exploring Quantum Computing",
+      "author_img": "https://media.istockphoto.com/id/1405522719/photo/man-sitting-indoor-looks-at-camera-participate-in-live-videoconference.jpg?s=2048x2048&w=is&k=20&c=jj_ttKJiZbLTh7wBhGbvyd2PPcosQKc3fH6KOUITnRs=",
+      "posted_date": "2024-04-19",
+      "reading_time": 15,
+      "author": "Samuel Patel",
+      "hashtags": ["#Quantum", "#Computing", "#Technology"]
+    },
+    {
+      "id": 3,
+      "cover": "https://cdn.pixabay.com/photo/2022/10/18/06/15/network-7529355_1280.jpg",
+      "title": "The Psychology of Decision Making",
+      "author_img": "https://media.istockphoto.com/id/1434212178/photo/middle-eastern-lady-using-laptop-working-online-sitting-in-office.jpg?s=2048x2048&w=is&k=20&c=U0nKYf9Ggh8S77U7DvPlFpRE0bKiSOD9gr9naxHEpfM=",
+      "posted_date": "2024-04-18",
+      "reading_time": 12,
+      "author": "Sophia Lee",
+      "hashtags": ["#Psychology", "#DecisionMaking", "#Behavior"]
+    },
+    {
+      "id": 4,
+      "cover": "https://cdn.pixabay.com/photo/2017/11/11/17/08/solar-system-2939560_1280.jpg",
+      "title": "Sustainable Energy Solutions",
+      "author_img": "https://media.istockphoto.com/id/1465289648/photo/satisfied-modern-millennial-man-in-stylish-casual-clothes-using-smartphone-and-laptop-computer.jpg?s=2048x2048&w=is&k=20&c=0AiRtqBSX-uwnqZ9O8KRTZGBvWdgdk5-XVaKxdQcae4=",
+      "posted_date": "2024-04-17",
+      "reading_time": 20,
+      "author": "Daniel Garcia",
+      "hashtags": ["#Sustainability", "#RenewableEnergy", "#Environment"]
+    }
+  ]
+  
